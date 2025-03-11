@@ -2,6 +2,8 @@ Tkinter dashboard
 
 Designed to be lightweight dashboard for raspberry-pi
 
+![screenshot](image.png)
+
 Features:
 - text
 - gauge
